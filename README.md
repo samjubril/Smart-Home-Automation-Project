@@ -1,5 +1,3 @@
-# Smart-Home-Automation-Project
-My Master Degree Project in Information Technology
 # SMART HOME AUTOMATION SYSTEM
 
  Development of a cost-effective smart home automation project for Master Degree Programme in Information Technology at National Open University of Nigeria, Abuja.
